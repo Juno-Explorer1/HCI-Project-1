@@ -23,3 +23,13 @@ main {
   background-color: #B8DBD9;
   color: #000000;
 }
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 2.25em;
+  margin-bottom: 0.5em;
+}
