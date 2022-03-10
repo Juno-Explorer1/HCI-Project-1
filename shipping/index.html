@@ -18,12 +18,14 @@
       </ul>
     </section>
     <section id="shipping">
-      <label for="types">Shipping Types</label>
-      <select id="types">
-        <option value="standard">Standard</option>
-        <option value="express">Express (+$10)</option>
-      </select>
-      <input type="submit" value="Continue"/>
+      <form action="../payment" id="typeform">
+        <label for="types">Shipping Types</label>
+        <select id="types">
+          <option value="standard">Standard</option>
+          <option value="express">Express (+$10)</option>
+        </select>
+        <input type="submit" value="Continue"/>
+      </form>
     </section>
   </main>
   <footer id="footer">
