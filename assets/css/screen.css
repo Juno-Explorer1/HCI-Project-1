@@ -39,3 +39,15 @@ footer {
   color: black;
   padding: 1em;
 }
+
+#cart {
+  text-align: center;
+  border: 0.25em solid black;
+  padding: 1em;
+  color: black;
+}
+
+#cartlist > li {
+  list-style-type: none;
+  margin: 1em;
+}
