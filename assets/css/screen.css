@@ -8,3 +8,18 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 /* color pallette from http://paletton.com/#uid=5440u0kkamz9Fz7eSrQpuhfuWbN*/
+
+body {
+  background-color: #586F7C;
+}
+
+main {
+  margin: 1em;
+  padding: 1em;
+}
+
+#header {
+  text-align: center;
+  background-color: #B8DBD9;
+  color: #000000;
+}
